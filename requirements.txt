@@ -1,0 +1,4 @@
+pipecat-ai[google,sarvam]
+python-dotenv
+loguru
+aiohttp
